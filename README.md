@@ -1,6 +1,6 @@
 # BeautyShop :- https://64908ab138df291339152391--loquacious-banoffee-15ae57.netlify.app/
 ![image](https://github.com/gsmartGautam/BeautyShop/assets/92631530/8ff12bef-4256-4133-a18d-ada472078a4d)
-![image](https://github.com/gsmartGautam/BeautyShop/assets/92631530/6a49e18d-bd8e-4c54-8052-74dcf320b9e0)
+![image](https://github.com/gsmartGautam/BeautyShop/assets/92631530/4763adfd-cbee-4dd9-8001-82d026bd8fd6)
 ![image](https://github.com/gsmartGautam/BeautyShop/assets/92631530/7ef8d2a8-5200-4660-a31e-8fecfc6ee087)
 ![image](https://github.com/gsmartGautam/BeautyShop/assets/92631530/6d0b58f0-f03a-4b2c-a1c3-cde58fc1907a)
 ![image](https://github.com/gsmartGautam/BeautyShop/assets/92631530/cf30fdb5-c03a-40ca-9485-3c8f89b8a74c)
